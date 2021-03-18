@@ -1,1 +1,1 @@
-Am endless runner game, little like Temple Run.
+An endless runner game, little like Temple Run.
