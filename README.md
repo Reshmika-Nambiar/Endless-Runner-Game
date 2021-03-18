@@ -1,1 +1,1 @@
-AN endless runner game, temple run clone
+Am endless runner game, little like Temple Run.
